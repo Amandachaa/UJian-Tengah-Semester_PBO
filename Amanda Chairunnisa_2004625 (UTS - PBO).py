@@ -1,3 +1,7 @@
+#Nama    : Amanda Chairunnisa
+#NIM     : 2004625
+#Project : UTS PBO
+
 class bank :
     def __init__(self, saldoumum, saldotab, nominal):
         self.saldoumum = saldoumum
